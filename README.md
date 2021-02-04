@@ -6,10 +6,6 @@ This repository (Horiseon-SEO-Project) is where we refractored the Horiseon comp
 ## The Horiseon Website
 ![Image of Horiseon Website](https://github.com/enzonsn/Horiseion-SEO-Project/blob/main/assets/images/Web.PNG)
 
-## Feedback, Questions or Concerns
-Ask a question, request a new feature or file an issue at [Stack Overflow!](https://github.com/enzonsn)
-
-
 ## Project Updates
 
 * Programming languages used: HTML and CSS

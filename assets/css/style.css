@@ -37,8 +37,10 @@ header nav ul {
 }
 
 header nav ul li {
-    display: inline-block;
+    display: inline;
+    padding: 1em;
     margin-left: 25px;
+    display: inline-block;
 }
 
 a {

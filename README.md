@@ -17,4 +17,4 @@ This repository (Horiseon-SEO-Project) is where we refractored the Horiseon comp
 * CSS Elements consolidated
 
 ##  See Our Updates Here
-To see Our Updated Horiseon Website Click Here! [Horiseon Website!](https://enzonsn.github.io/Horiseion-SEO-Project/)
+To see Our Updated Horiseon Website Click Here! [Horiseon Website!](https://enzonsn.github.io/Horiseon-SEO-Project/)

@@ -1,7 +1,7 @@
 # Horiseon SEO Project
 
 ## This Repository
-This repository (Horiseon-SEO-Project) is where we refractored the Horiseon compnay website, from provided code, to meet a certain set of standards by: updating semantic elements, arranging the website so it is more accesible for people with disabilities or socio-economic restrictions.
+This repository (Horiseon-SEO-Project) is where we refractored the Horiseon company website, from provided code, to meet a certain set of standards by: updating semantic elements, arranging the website so it is more accesible for people with disabilities or socio-economic restrictions.
 
 ## The Horiseon Website
 ![Image of Horiseon Website](https://github.com/enzonsn/Horiseion-SEO-Project/blob/main/assets/images/Web.PNG)
